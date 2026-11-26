@@ -1,0 +1,1 @@
+{"dependencies":{"@resvg/resvg-js":"2.6.2","satori":"0.63.2"},"description":"Entry copy of our winner-template news-image generator for make.fun news-image-20261126 (Satori + resvg)","name":"news-toolkit","private":true,"scripts":{"check":"node gdelt-check.mjs","generate":"node generate.mjs","proof":"node satori-proof.mjs"},"type":"module","version":"0.1.0"}
